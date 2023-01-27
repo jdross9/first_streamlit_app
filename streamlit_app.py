@@ -1,3 +1,3 @@
-//Create streamlit_app.py
+import streamlit
 
-Created the main python file
+streamlit.title('My parents new healthy diner')
